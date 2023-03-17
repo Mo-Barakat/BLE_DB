@@ -1,0 +1,7 @@
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\obj\Debug\BLE_DB.csproj.AssemblyReference.cache
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\obj\Debug\BLE_DB.csproj.CoreCompileInputs.cache
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\bin\Debug\BLE_DB.pdb
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\obj\Debug\BLE_DB.pdb
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\bin\Debug\BLE_DB.exe
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\obj\Debug\BLE_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\obj\Debug\BLE_DB.exe

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\uif49391\\Continental AG\\Makers Garage - General\\Projects\\2022_10 - BLE Windows Tool\\Solution\\BLE\\BLE_DB\\BLE_DB.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\uif49391\\Continental AG\\Makers Garage - General\\Projects\\2022_10 - BLE Windows Tool\\Solution\\BLE\\BLE_DB\\BLE_DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\uif49391\\Continental AG\\Makers Garage - General\\Projects\\2022_10 - BLE Windows Tool\\Solution\\BLE\\BLE_DB\\BLE_DB.csproj",
+        "projectName": "BLE_DB",
+        "projectPath": "C:\\Users\\uif49391\\Continental AG\\Makers Garage - General\\Projects\\2022_10 - BLE Windows Tool\\Solution\\BLE\\BLE_DB\\BLE_DB.csproj",
+        "packagesPath": "C:\\Users\\uif49391\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\uif49391\\Continental AG\\Makers Garage - General\\Projects\\2022_10 - BLE Windows Tool\\Solution\\BLE\\BLE_DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\uif49391\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.22621.755, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

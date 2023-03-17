@@ -1,0 +1,96 @@
+CPCWrapper::1::3/17/2023 3:06:38 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::1::3/17/2023 3:06:38 PM::  updating measurement for TireOID 
+CPCWrapper::1::3/17/2023 3:06:38 PM::  updating measurement for TireOID 
+BLE_DB.exe Error: 0 : System.Func`1[System.String] Error updating measurement for tireOID  Sap.Data.SQLAnywhere.SAException (0x80004005): Primary key for table 'MEASUREMENT_AIR' is not unique: Primary key value (''uif49391xx134b0ad55a0bacd'')
+   at Sap.Data.SQLAnywhere.SADataAdapter.Update(DataRow[] dataRows, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.UpdateFromDataTable(DataTable dataTable, DataTableMapping tableMapping)
+   at System.Data.Common.DbDataAdapter.Update(DataTable dataTable)
+   at BLE_DB.SACommands.ExecuteNonQuery(Measurement_Air mAir, Boolean update) in C:\Users\uif49391\Continental AG\Makers Garage - General\Projects\2022_10 - BLE Windows Tool\Solution\BLE\BLE_DB\SACommands.cs:line 115
+CPCWrapper::1::3/17/2023 3:06:39 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:13:41 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:16:26 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:16:26 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:39 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:39 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:39 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:41 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:41 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:41 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:41 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:43 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:43 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:43 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:43 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::4::3/17/2023 3:17:43 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:43:12 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:43:13 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:45:36 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:45:36 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:45:36 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:45:36 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:38 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:38 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:38 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:38 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:38 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:38 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:52 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:52 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:52 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:52 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:46:52 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:52 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:52 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:46:52 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:47 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:47 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:47 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:47 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:47 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:47 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:47 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:47 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:47 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:47 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:48:57 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:06 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM:: Lib v1 initialized. Writing to logfile CPC_BLE.log
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
+CPCWrapper::3::3/17/2023 3:49:45 PM::  updating measurement for TireOID 
